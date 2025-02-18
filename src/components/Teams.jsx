@@ -21,6 +21,7 @@ import dhanashri from '../assests/dhanashri.jpg'
 import parag from '../assests/parag jadhav.png'
 import yash from '../assests/yash mulya.png'
 import group from '../assests/EDCGrp.jpg'
+import siddhi from '../assests/siddhi.jpg'
 const teamMembers = [
   {
     name: 'Prof N.G Jaiswal',
@@ -162,7 +163,7 @@ const teamMembers = [
   },  {
     name: 'Siddhi Shah',
     role: 'Curation Head',
-    image: prasad,
+    image: siddhi,
     linkedin: '#',
     email: ''
   }
