@@ -1,6 +1,5 @@
 import React from 'react'
 import jaiswalSir from '../assests/jaiswal-sir.png'
-import ritin from '../assests/Ritinedc-1.jpg'
 import Om from '../assests/Om.jpg'
 import { FaLinkedin, FaMailBulk } from 'react-icons/fa'
 import shreya from '../assests/shreya patil.jpg'
@@ -37,20 +36,8 @@ const teamMembers = [
     linkedin: 'https://www.linkedin.com/in/om-nalagune-55a2b0243/',
     email: 'sharvinpharande@gmail.com'
   },
-  {
-    name: 'Ritin Wadekar',
-    role: 'Mentor',
-    image: ritin,
-    linkedin: 'https://www.linkedin.com/in/ritin-wadekar/?originalSubdomain=in',
-    email: 'ritinwadekar6@gmail.com'
-  },
-  {
-    name: 'Heramb Patil',
-    role: 'Technical Head',
-    image: heramb,
-    linkedin: '#',
-    email: ''
-  },
+  
+  
   {
     name: 'Shreya Patil',
     role: 'Joint-General Secretary',
@@ -66,19 +53,14 @@ const teamMembers = [
     email: ''
   },
   {
-    name: 'Vinay Marta',
-    role: 'Treasurer',
-    image: vinay,
+    name: 'Heramb Patil',
+    role: 'Technical Head',
+    image: heramb,
     linkedin: '#',
     email: ''
   },
-  {
-    name: 'Pratham Patil',
-    role: 'Joint-Treasurer',
-    image: pratham,
-    linkedin: '#',
-    email: ''
-  },
+  
+  
   {
     name: 'Vedant Sonwalkar',
     role: 'General Manager',
@@ -137,6 +119,20 @@ const teamMembers = [
     email: ''
   },
   {
+    name: 'Vinay Marta',
+    role: 'Treasurer',
+    image: vinay,
+    linkedin: '#',
+    email: ''
+  },
+  {
+    name: 'Pratham Patil',
+    role: 'Joint-Treasurer',
+    image: pratham,
+    linkedin: '#',
+    email: ''
+  },
+  {
     name: 'Sashi Chirme',
     role: 'Head of Sponsorship',
     image: sashi,
@@ -161,6 +157,12 @@ const teamMembers = [
     name: 'Dhanashri Katarkhatavkar',
     role: 'Aesthetics Co-Head',
     image: dhanashri,
+    linkedin: '#',
+    email: ''
+  },  {
+    name: 'Siddhi Shah',
+    role: 'Curation Head',
+    image: prasad,
     linkedin: '#',
     email: ''
   }

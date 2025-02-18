@@ -40,10 +40,10 @@ const Home = () => {
                         </h1>
                     </Slide>
                     <a
-                        href="#"
+                        href="https://herambpatilofficial.github.io/EDCLinkTree.github.io/"
                         className="text-white border-2 border-[#00FFFF] py-2 px-4 rounded-md font-semibold transition hover:bg-[#4ECEE6] duration-300"
                     >
-                        Venturers 2025<br></br>Coming Soon</a>
+                        Register for<br></br>Venturers 2025</a>
                     <div className=" bg-black fixed bottom-1 right-1 hover:opacity-100 transition duration-300">
                         <h1 className="text-white ">Scroll down</h1>
                     </div>
